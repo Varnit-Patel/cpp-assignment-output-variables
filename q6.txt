@@ -1,0 +1,9 @@
+01PWskills          - invalid
+
+_FLOAT              - valid
+
+int                 - invalid
+
+FLOAT               - valid
+
+You will succeed    - invalid
